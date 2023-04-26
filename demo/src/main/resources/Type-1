@@ -1,0 +1,7 @@
+temp,address,gender,city,root,name,age
+-,Hyderabad,-,-,-,Reshwanth,1999
+non,hyd,-,-,-,Reshwanth,189
+-,Hyderabad,-,hgj,-,Reshwanth,100
+-,Hyderabad,male,-,-,Reshwanth,100
+-,Hyderabad,-,-,-,Reshwanth,101
+-,Hyderabad,-,-,nn,Reshwanth,100
